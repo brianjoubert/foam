@@ -11,4 +11,4 @@ type: CNC
 - Flange with Power feedthrough like that [Link](https://www.lesker.com/newweb/feedthroughs/feedthroughs_technicalnotes_power.cfm?pgid=0)
 - We need to create a small flange with a ridge for the kapton gasket
 
-Finally we went for a simplyfied 
+Finally we went for a simplified 
