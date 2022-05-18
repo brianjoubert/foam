@@ -18,7 +18,7 @@ Autofocus mode: Enabled
 Filter 25.1%
 
 ## Develop
-MF319: 1 Minute 
+MF319: 1 Minute 10 sec 
 Rinse with water
 Dry
 
