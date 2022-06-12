@@ -29,5 +29,5 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
-  "gitdoc.enabled": true,
+  "gitdoc.enabled": false,
 }
