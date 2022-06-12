@@ -7,5 +7,5 @@ and black pepper
 3 tbsp za’atar
 ⅔ cup/100g all-purpose flour
 1½ tsp baking powder
-1 cup/20g mint leaves, nely shredded 7 oz/200g feta, crumbled into
+1 cup/20g mint leaves, finely shredded 7 oz/200g feta, crumbled into
 ¾-inch/2cm pieces about 3⅓ cups/800ml sunflower oil, for frying
