@@ -1,6 +1,6 @@
 # Avocado_toast
 
-2 or 3 very ripe avocados, at room temperature, esh scooped out to
+2 or 3 very ripe avocados, at room temperature, flesh scooped out to
 get 9 oz/250g ¼ cup/60g unsalted butter, softened and cut into ¾-
 inch/2cm cubes 3 limes: nely zest to get 2 tsp, then juice to get 2 tbsp
 salt
